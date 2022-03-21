@@ -1,5 +1,5 @@
 $(document).ready(function() {
-   
+   // form submission and prompts to the user
     $("#text-center").submit(function(event) {
         //functions to get user input from the forms
         function flavor() {
