@@ -1,7 +1,7 @@
 $(document).ready(function() {
    // form submission and prompts to the user
     $("#text-center").submit(function(event) {
-        
+        //user input
         function flavor() {
             var pizzaFlavour = document.getElementById("flavor").value;
             return parseInt(pizzaFlavour);
