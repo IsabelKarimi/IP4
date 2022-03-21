@@ -1,3 +1,4 @@
+*{background-color: lightgrey
 h2 {
     font-family: 'Architects Daughter', cursive;
     color: plum;
@@ -51,7 +52,7 @@ h1 {
 }
 
 .home {
-    background-image: url("background.png");
+    background-image: url("./images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 350px;
