@@ -1,9 +1,9 @@
 
 Author Isabel Karimi
 
-Description This is an E-commerce website involved in purchases and deliveries of pizza.. The reason for building the website is to hone my Javascript,Bootstrap and Jquery skills.
+Description This is an E-commerce website involved in purchases and deliveries of pizza.. The reason for building the website is to advance my Javascript,and Jquery skills.
 
-Technologies HTML5 CSS3 Javascript and Jquery Bootstrap 4
+Technologies HTML5 CSS3 Javascript and Jquery
 
 Contact Email: Isabelkarimi7@gmail.com
 
