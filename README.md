@@ -2,6 +2,7 @@
 Author Isabel Karimi
 
 Description This is an E-commerce website involved in purchases and deliveries of pizza.. The reason for building the website is to advance my Javascript,and Jquery skills.
+Live link: https://isabelkarimi.github.io/IP4/
 
 Technologies HTML5 CSS3 Javascript Bootstrap 5 and Jquery
 
