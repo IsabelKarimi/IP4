@@ -3,7 +3,9 @@ h2 {
     color: plum;
     font-size: 60px;
 }
-
+span {
+    color: rgb(187, 157, 146);
+}
 
 
 nav ul {
